@@ -1,2 +1,4 @@
 # ComputerFundamental
-Computer Fundamental Final Project
+# Muhammad Umer Farooque
+# Enroll: 02-131192-059
+
